@@ -1,4 +1,4 @@
-import 'package:api/core/developer/developer.dart';
+import 'package:api/src/core/developer/developer.dart';
 import 'package:mysql_client/mysql_client.dart';
 
 import './database.dart';
